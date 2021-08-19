@@ -1,0 +1,81 @@
+{
+    "items": [{
+        "song": "Shababs Botten",
+        "album": "Singles",
+        "artist": "Pashanim ",
+        "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/1457d57ead22d806ec40d03e601c93b5.jpg",
+        "spotify": "https://open.spotify.com/track/0H9WHopZ62JeDaGau7REMw?si=c8b0bb41dd0f4c02"
+    }, {
+        "song": "Sommergewitter",
+        "album": "Single",
+        "artist": "Pashanim",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f4021229806dee1ed58835d2",
+        "spotify": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ?si=f59e03b4b574431d"
+    }, {
+        "song": "Intro",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/5NEP9JnSSltKy0xv5vhzOf?si=c1678761025d4ec7"
+    }, {
+        "song": "Chromosom",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/6Yu4uRiiDx2YN0eEeTdUIf?si=27d8bf0da90c4a2c"
+    }, {
+        "song": "Zukunft",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/0myjXsBDYloFnVcQkF2baU?si=430611c3a6914539"
+    }, {
+        "song": "Realität",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/0QfulZ9NDsfbSg5x2i0E2Q?si=b7942d530a5547fe"
+    }, {
+        "song": "Wenn es schlecht läuft",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/2e80oXZM1ePJAj1xCuounQ?si=6de4986aa1c54809"
+    }, {
+        "song": "Scusa",
+        "album": "Zukunft",
+        "artist": "RAF Camora, Ketama126",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/2ATdbj3g5CpTEwk17in7xy?si=261d3dc4f365417f"
+    }, {
+        "song": "Zombie",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/0qaHSnykJcv1atOKfW2Mtt?si=61248175fca2425c"
+    }, {
+        "song": "Benzin",
+        "album": "Zukunft",
+        "artist": "RAF Camora, Ufo361",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/42SabPHEnzrzT5abFrp3ad?si=a4dce112be944ce1"
+    }, {
+        "song": "Ich kenne meinen Wert",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/7l9IKWdgfhhCu7P8Q8btpX?si=da829b914e844b5d"
+    }, {
+        "song": "Vergesse nie die Street",
+        "album": "Zukunft",
+        "artist": "RAF Camora, Ahmad Amin",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/7Cdqo041677njveTGZtrLg?si=7c12be8737164ca6"
+    }, {
+        "song": "Ebbe",
+        "album": "Zukunft",
+        "artist": "RAF Camora",
+        "cover": "https://images.genius.com/04287309a60386f6b2af782e05e49c4b.1000x1000x1.jpg",
+        "spotify": "https://open.spotify.com/track/71x5VDpLG2bhmQbbb0sr8A?si=1a0a519564b84b64"
+    }]
+}
